@@ -16,8 +16,23 @@ strong{
     color: lightgray;
 }
 
-img{
+.imgLink{
     height: auto;
-    max-width: 25%;
+    max-width: 3.5%;
+    background-color: lightgrey;
+    height: 2em;
+    width: 2em;
+    padding: 1em;
+    border-radius: 20%;
+    
+}
+
+#img1{
+    height: auto;
+    max-width: 30%;
     rotate: 20deg;
+}
+
+#linkP{
+    padding-top: 10%;
 }
