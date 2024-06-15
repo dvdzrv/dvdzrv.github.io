@@ -19,4 +19,5 @@ strong{
 img{
     height: auto;
     max-width: 25%;
+    rotate: 20deg;
 }
