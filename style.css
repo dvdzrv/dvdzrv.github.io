@@ -36,3 +36,8 @@ strong{
 #linkP{
     padding-top: 2em;
 }
+
+#bottomTXT{
+    font-size: 0.9em;
+    color: rgb(190, 190, 190);
+}
